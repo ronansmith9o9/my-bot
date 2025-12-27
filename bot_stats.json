@@ -1,0 +1,21 @@
+{
+  "totalUsers": 1,
+  "activeUsers": [
+    7905676988
+  ],
+  "commandsUsed": {
+    "/start": 1,
+    "admins": 1,
+    "main_menu": 1
+  },
+  "userHistory": [
+    {
+      "userId": 7905676988,
+      "username": "pentesterUSA",
+      "firstName": "Mr. Ozodbek™️ ️️️🫧",
+      "time": "2025-12-27T04:20:09.215Z",
+      "action": "start"
+    }
+  ],
+  "lastUpdate": "2025-12-27T04:20:24.968Z"
+}
